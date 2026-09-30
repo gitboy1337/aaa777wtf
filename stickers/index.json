@@ -1,0 +1,22 @@
+[
+  {
+    "name": "onboarding_welcome.json",
+    "url": "/stickers/onboarding_welcome.json",
+    "type": "lottie"
+  },
+  {
+    "name": "onboarding_safe.json",
+    "url": "/stickers/onboarding_safe.json",
+    "type": "lottie"
+  },
+  {
+    "name": "onboarding_wallet.json",
+    "url": "/stickers/onboarding_wallet.json",
+    "type": "lottie"
+  },
+  {
+    "name": "onboarding_lastslite.json",
+    "url": "/stickers/onboarding_lastslite.json",
+    "type": "lottie"
+  }
+]
