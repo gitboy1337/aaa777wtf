@@ -1,0 +1,11 @@
+.git
+.gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.zip
+.env
+.env.*
+data/*.sqlite3-shm
+data/*.sqlite3-wal
